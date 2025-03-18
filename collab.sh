@@ -1,3 +1,4 @@
+echo Not my scripts im update a ngrok url
 wget https://bin.equinox.io/c/bNyj1mQVY4c/ngrok-v3-stable-linux-amd64.tgz > /dev/null 2>&1
 unzip ngrok-stable-linux-amd64.zip > /dev/null 2>&1
 read -p "Paste authtoken here (Copy and Ctrl+V to paste then press Enter): " CRP
